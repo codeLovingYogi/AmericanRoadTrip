@@ -1,112 +1,1 @@
-Date,,Time,Source,Place,Latitude,Longitude,Type
-8/24/2013,1,11:23 PM,R,Shell,40.632584,-74.918073,Gas Station
-8/25/2013,2,2:45 AM,R,Walmart,39.658177,-77.749031,Walmart
-8/25/2013,3,5:39 AM,R,Shell,39.475328,-80.122321,Gas Station
-8/25/2013,4,7:59 AM,R,McDonald's,38.457993,-81.500153,Food
-8/25/2013,5,11:44 AM,R,Shell,38.076804,-84.493604,Gas Station
-8/25/2013,6,,F,Wigwam Village,37.144936,-85.945207,Accommodation
-8/25/2013,7,2:43 PM,R,El Mazatlan,37.132899,-85.972255,Food
-8/25/2013,8,,F,Mammoth Cave National Park,37.18349,-86.095679,Attraction
-8/25/2013,9,,F,Walmart,37.020992,-85.937833,Walmart
-8/25/2013,10,9:14 PM,R,Yamato Japanese Steakhouse,37.022482,-85.934226,Food
-8/26/2013,11,12:55 PM,R,Monell's Dining,36.175811,-86.790228,Food
-8/26/2013,12,,F,The Cupcake Collection,36.175022,-86.789752,Food
-8/26/2013,13,,F,Centennial Park,36.149721,-86.813319,Attraction
-8/26/2013,14,2:32 PM,R,Central Parking Hilton Garage,36.159959,-86.777421,Parking
-8/26/2013,15,2:49 PM,R,Country Music Hall of Fame,36.158334,-86.776266,Attraction
-8/26/2013,16,7:33 PM,R,Robert's Western World,36.160938,-86.777949,Food
-8/26/2013,17,8:30 PM,R,Wildhorse Saloon,36.162753,-86.775195,Food
-8/26/2013,18,10:45 PM,R,BP Gas,36.109486,-86.923183,Gas Station
-8/27/2013,19,10:28 AM,R,Loveless Café,36.035663,-86.972115,Food
-8/27/2013,20,12:36 PM,R,Walmart,35.668339,-88.851469,Walmart
-8/27/2013,21,2:38 PM,R,Graceland,35.04691,-90.024273,Attraction
-8/27/2013,22,7:30 PM,R,Corky's BBQ,35.107941,-89.886668,Food
-8/27/2013,23,7:31 PM,R,Love's Travel Stop,34.351485,-89.915851,Rest Stop
-8/27/2013,24,,F,Love's Travel Stop,32.612638,-90.036751,Rest Stop
-8/27/2013,25,,F,Quality Inn,34.308175,-89.921554,Accommodation
-8/28/2013,26,9:47 AM,F,Longwood Mansion,31.536201,-91.399288,Attraction
-8/28/2013,27,1:59 PM,R,Circle K,30.090593,-90.439752,Gas Station
-8/28/2013,28,,,Louis Armstrong New Orleans International Airport,29.985931,-90.257712,Airport
-8/28/2013,29,4:43 PM,R,Premium Parking,29.954196,-90.068758,Parking
-8/28/2013,30,6:01 PM,R,Acme Oyster House,29.954291,-90.068953,Food
-8/28/2013,31,,F,Jackson Square,29.956708,-90.062795,Attraction
-8/28/2013,32,,F,Café du Monde,29.957523,-90.061862,Food
-8/28/2013,33,,F,Maison Dupuy,29.959128,-90.068276,Accommodation
-8/28/2013,34,,F,Fais Deaux Deaux,29.956106,-90.068202,Food
-8/28/2013,35,,F,Cabildo,29.957619,-90.063893,Attraction
-8/28/2013,36,7:53 PM,R,Fishbowls Sold Here,29.95831,-90.065708,Food
-8/29/2013,37,9:01 AM,R,Antoine's Restaurant,29.956746,-90.066402,Food
-8/29/2013,38,2:13 PM,R,Willie Mae's Scotch House,29.969202,-90.07891,Food
-8/29/2013,39,,F,The Canal Street Ferry,29.966909,-90.089169,Attraction
-8/29/2013,40,,F,Algiers Point,29.992876,-90.067002,Attraction
-8/29/2013,41,,F,Tout de Suite Café,29.933574,-90.032653,Food
-8/29/2013,42,4:48 PM,R,Cajun Seafood,29.971198,-90.067682,Food
-8/29/2013,43,5:45 PM,R,French Quarter Phantom,29.960361,-90.062059,Attraction
-8/29/2013,44,,F,Lafitte's Blacksmith Shop,29.961037,-90.06363,Food
-8/29/2013,45,,F,Three Muses,29.963276,-90.057891,Food
-8/29/2013,46,,F,The Spotted Cat Music Club,29.964061,-90.057668,Food
-8/29/2013,47,,F,Cafe Soule and The Paris Room,29.956555,-90.066726,Food
-8/30/2013,48,1:05 PM,R,Laura Plantation,30.008515,-90.725412,Attraction
-8/30/2013,49,,F,Louisiana State University,30.447019,-91.134639,Attraction
-8/30/2013,50,5:53 PM,R,The Chimes,30.417482,-91.176054,Food
-8/30/2013,51,8:01 PM,R,Walmart,30.520674,-92.065992,Walmart
-8/30/2013,52,8:12 PM,R,Murphy USA,30.51895,-92.07054,Gas Station
-8/30/2013,53,10:53 PM,R,Chevron,32.397838,-93.749224,Gas Station
-8/31/2013,54,,F,McDonald's,32.447338,-95.331165,Food
-8/31/2013,55,,F,Sip Stir Cafe,32.809059,-96.795104,Food
-8/31/2013,56,5:47 AM,R,Motel 6 - Abilene,32.477374,-99.784507,Accommodation
-8/31/2013,57,1:08 PM,R,Allsups 213,33.181103,-102.26779,Gas Station
-8/31/2013,58,1:13 PM,R,Big Apple Deli,32.715854,-100.917447,Food
-8/31/2013,59,2:56 PM,R,Oh Thank Heaven for 7 Eleven,32.805144,-96.813775,Gas Station
-8/31/2013,60,5:00 PM,R,International UFO Museum,33.393649,-104.523223,Attraction
-8/31/2013,61,,F,El Toro Bravo,33.3931,-104.522901,Food
-8/31/2013,62,,F,Starbucks,33.407582,-104.522266,Food
-8/31/2013,63,8:45 PM,R,Monte Carlo Steakhouse,35.086086,-106.683527,Food
-9/1/2013,64,12:35 AM,R,Shell,35.087588,-106.569049,Gas Station
-9/1/2013,65,,F,The Cooperage Restaurant,35.086823,-106.566735,Food
-9/1/2013,66,,F,International Balloon Museum,35.189799,-106.598039,Attraction
-9/1/2013,67,,F,Sandia Peak Tramway,35.192596,-106.487594,Attraction
-9/1/2013,68,2:52 PM,R,High Finance Restaurant,35.190987,-106.479356,Food
-9/1/2013,69,,F,The Santa Fe Opera,35.742923,-105.934867,Attraction
-9/1/2013,70,,F,Garretts Desert Inn Hotel,35.684091,-105.937031,Accommodation
-9/1/2013,71,10:29 PM,R,Del Charro Saloon,35.686975,-105.937799,Food
-9/2/2013,72,,F,Cafe Pasqual's,35.6866,-105.939666,Food
-9/2/2013,73,,F,Caffe Greco,35.683161,-105.933197,Food
-9/2/2013,74,,F,San Felipe Travel Center,35.415264,-106.403011,Rest Stop
-9/2/2013,75,6:04 PM,R,Walmart,35.110138,-106.700877,Walmart
-9/2/2013,76,,F,Fire Rock Navajo Casino,35.532585,-108.628475,Attraction
-9/2/2013,77,,F,Giant Gas,35.532636,-108.759718,Gas Station
-9/3/2013,78,5:15 PM,R,Cave Springs Campground,34.974238,-111.747313,Accommodation
-9/3/2013,79,,F,Walmart,35.176345,-111.664484,Walmart
-9/3/2013,80,,F,India Palace (Cuisine of India),34.817159,-111.904727,Food
-9/3/2013,81,,F,Sedona Red Rocks,34.814896,-111.830885,Attraction
-9/3/2013,82,,F,Bell Rock,34.783214,-111.773286,Attraction
-9/4/2013,83,,F,Cathedral Rock,34.859394,-111.783851,Attraction
-9/4/2013,84,8:28 AM,R,Wildflower Bread Co.,34.867243,-111.761988,Walmart
-9/4/2013,85,11:31 AM,R,Pilot Travel Center,35.238506,-111.821738,Gas Station
-9/4/2013,86,,F,McDonald's,35.218354,-114.007327,Food
-9/4/2013,87,,F,Hoover Dam,36.01558,-114.747265,Attraction
-9/4/2013,88,6:57 PM,R,Bellagio Buffet,36.112238,-115.179084,Walmart
-9/4/2013,89,11:38 PM,R,RHUMBAR,36.120602,-115.176838,Walmart
-9/5/2013,90,1:02 AM,R,El Mono Motel & Latte Da Coffee,37.956671,-119.119267,Food
-9/5/2013,91,,F,Shell,38.065253,-117.227481,Gas Station
-9/5/2013,92,1:27 PM,R,Walmart,36.097974,-115.108395,Walmart
-9/5/2013,93,,F,Miguel's Fresh Jerky,36.914577,-116.752644,Food
-9/5/2013,94,,F,Shell,38.065253,-117.227481,Gas Station
-9/5/2013,95,3:13 PM,R,Area 51 Travel Center,36.643064,-116.39704,Gas Station
-9/5/2013,96,3:23 PM,R,Bodie Mike's Barbeque,37.95599,-119.118852,Food
-9/6/2013,97,,F,Mono Lake,38.007059,-119.012259,Attraction
-9/6/2013,98,11:02 AM,R,Shell,37.95733,-119.119303,Gas Station
-9/6/2013,99,3:13 PM,R,Delaware North Companies,37.641548,-119.626735,Food
-9/6/2013,100,5:05 PM,R,Shell,38.255489,-119.231738,Gas Station
-9/6/2013,101,6:18 PM,F,Curry Village,37.641548,-119.626735,Food
-9/6/2013,102,8:25 PM,R,McDonald's,37.977142,-120.316533,Food
-9/7/2013,103,1:03 PM,R,Glacier Point Gift,37.748134,-119.588534,Shop
-9/7/2013,104,4:39 PM,R,Coffee Corner,37.74557,-119.593604,Food
-9/7/2013,105,5:21 PM,R,Village Store,37.748134,-119.588534,Shop
-9/8/2013,106,12:00 AM,R,Lombard Street,37.794778,-122.416495,Attraction
-9/8/2013,107,11:45 AM,R,Fireball Coffee Roasting,37.839031,-120.229887,Food
-9/8/2013,108,1:40 PM,R,Walmart,37.785487,-121.218581,Walmart
-9/8/2013,109,7:19 PM,R,Penang Garden Restaurant,37.795497,-122.405573,Food
-9/8/2013,110,8:04 PM,R,In-N-Out Burger,37.600826,-122.382426,Food
-9/9/2013,111,,F,San Francisco International Airport (SFO),37.61356,-122.392888,Airport
+Date,,Time,Source,Place,Latitude,Longitude,Type8/24/13,1,,,Times Square,40.758979,-73.984429,Attraction8/24/13,1,11:23 PM,R,Shell,40.632584,-74.918073,Gas Station8/25/13,2,2:45 AM,R,Walmart,39.658177,-77.749031,Walmart8/25/13,3,5:39 AM,R,Shell,39.475328,-80.122321,Gas Station8/25/13,4,7:59 AM,R,McDonald's,38.457993,-81.500153,Food8/25/13,5,11:44 AM,R,Shell,38.076804,-84.493604,Gas Station8/25/13,6,,F,Wigwam Village,37.144936,-85.945207,Accommodation8/25/13,7,2:43 PM,R,El Mazatlan,37.132899,-85.972255,Food8/25/13,8,,F,Mammoth Cave National Park,37.18349,-86.095679,Attraction8/25/13,9,,F,Walmart,37.020992,-85.937833,Walmart8/25/13,10,9:14 PM,R,Yamato Japanese Steakhouse,37.022482,-85.934226,Food8/26/13,11,12:55 PM,R,Monell's Dining,36.175811,-86.790228,Food8/26/13,12,,F,The Cupcake Collection,36.175022,-86.789752,Food8/26/13,13,,F,Centennial Park,36.149721,-86.813319,Attraction8/26/13,14,2:32 PM,R,Central Parking Hilton Garage,36.159959,-86.777421,Parking8/26/13,15,2:49 PM,R,Country Music Hall of Fame,36.158334,-86.776266,Attraction8/26/13,16,7:33 PM,R,Robert's Western World,36.160938,-86.777949,Food8/26/13,17,8:30 PM,R,Wildhorse Saloon,36.162753,-86.775195,Food8/26/13,18,10:45 PM,R,BP Gas,36.109486,-86.923183,Gas Station8/27/13,19,10:28 AM,R,Loveless Caf̩,36.035663,-86.972115,Food8/27/13,20,12:36 PM,R,Walmart,35.668339,-88.851469,Walmart8/27/13,21,2:38 PM,R,Graceland,35.04691,-90.024273,Attraction8/27/13,22,7:30 PM,R,Corky's BBQ,35.107941,-89.886668,Food8/27/13,23,7:31 PM,R,Love's Travel Stop,34.351485,-89.915851,Rest Stop8/27/13,24,,F,Love's Travel Stop,32.612638,-90.036751,Rest Stop8/27/13,25,,F,Quality Inn,34.308175,-89.921554,Accommodation8/28/13,26,9:47 AM,F,Longwood Mansion,31.536201,-91.399288,Attraction8/28/13,27,1:59 PM,R,Circle K,30.090593,-90.439752,Gas Station8/28/13,28,,,Louis Armstrong New Orleans International Airport,29.985931,-90.257712,Airport8/28/13,29,4:43 PM,R,Premium Parking,29.954196,-90.068758,Parking8/28/13,30,6:01 PM,R,Acme Oyster House,29.954291,-90.068953,Food8/28/13,31,,F,Jackson Square,29.956708,-90.062795,Attraction8/28/13,32,,F,Caf̩ du Monde,29.957523,-90.061862,Food8/28/13,33,,F,Maison Dupuy,29.959128,-90.068276,Accommodation8/28/13,34,,F,Fais Deaux Deaux,29.956106,-90.068202,Food8/28/13,35,,F,Cabildo,29.957619,-90.063893,Attraction8/28/13,36,7:53 PM,R,Fishbowls Sold Here,29.95831,-90.065708,Food8/29/13,37,9:01 AM,R,Antoine's Restaurant,29.956746,-90.066402,Food8/29/13,38,2:13 PM,R,Willie Mae's Scotch House,29.969202,-90.07891,Food8/29/13,39,,F,The Canal Street Ferry,29.966909,-90.089169,Attraction8/29/13,40,,F,Algiers Point,29.992876,-90.067002,Attraction8/29/13,41,,F,Tout de Suite Caf̩,29.933574,-90.032653,Food8/29/13,42,4:48 PM,R,Cajun Seafood,29.971198,-90.067682,Food8/29/13,43,5:45 PM,R,French Quarter Phantom,29.960361,-90.062059,Attraction8/29/13,44,,F,Lafitte's Blacksmith Shop,29.961037,-90.06363,Food8/29/13,45,,F,Three Muses,29.963276,-90.057891,Food8/29/13,46,,F,The Spotted Cat Music Club,29.964061,-90.057668,Food8/29/13,47,,F,Cafe Soule and The Paris Room,29.956555,-90.066726,Food8/30/13,48,1:05 PM,R,Laura Plantation,30.008515,-90.725412,Attraction8/30/13,49,,F,Louisiana State University,30.447019,-91.134639,Attraction8/30/13,50,5:53 PM,R,The Chimes,30.417482,-91.176054,Food8/30/13,51,8:01 PM,R,Walmart,30.520674,-92.065992,Walmart8/30/13,52,8:12 PM,R,Murphy USA,30.51895,-92.07054,Gas Station8/30/13,53,10:53 PM,R,Chevron,32.397838,-93.749224,Gas Station8/31/13,54,,F,McDonald's,32.447338,-95.331165,Food8/31/13,55,,F,Sip Stir Cafe,32.809059,-96.795104,Food8/31/13,56,5:47 AM,R,Motel 6 - Abilene,32.477374,-99.784507,Accommodation8/31/13,57,1:08 PM,R,Allsups 213,33.181103,-102.26779,Gas Station8/31/13,58,1:13 PM,R,Big Apple Deli,32.715854,-100.917447,Food8/31/13,59,2:56 PM,R,Oh Thank Heaven for 7 Eleven,32.805144,-96.813775,Gas Station8/31/13,60,5:00 PM,R,International UFO Museum,33.393649,-104.523223,Attraction8/31/13,61,,F,El Toro Bravo,33.3931,-104.522901,Food8/31/13,62,,F,Starbucks,33.407582,-104.522266,Food8/31/13,63,8:45 PM,R,Monte Carlo Steakhouse,35.086086,-106.683527,Food9/1/13,64,12:35 AM,R,Shell,35.087588,-106.569049,Gas Station9/1/13,65,,F,The Cooperage Restaurant,35.086823,-106.566735,Food9/1/13,66,,F,International Balloon Museum,35.189799,-106.598039,Attraction9/1/13,67,,F,Sandia Peak Tramway,35.192596,-106.487594,Attraction9/1/13,68,2:52 PM,R,High Finance Restaurant,35.190987,-106.479356,Food9/1/13,69,,F,The Santa Fe Opera,35.742923,-105.934867,Attraction9/1/13,70,,F,Garretts Desert Inn Hotel,35.684091,-105.937031,Accommodation9/1/13,71,10:29 PM,R,Del Charro Saloon,35.686975,-105.937799,Food9/2/13,72,,F,Cafe Pasqual's,35.6866,-105.939666,Food9/2/13,73,,F,Caffe Greco,35.683161,-105.933197,Food9/2/13,74,,F,San Felipe Travel Center,35.415264,-106.403011,Rest Stop9/2/13,75,6:04 PM,R,Walmart,35.110138,-106.700877,Walmart9/2/13,76,,F,Fire Rock Navajo Casino,35.532585,-108.628475,Attraction9/2/13,77,,F,Giant Gas,35.532636,-108.759718,Gas Station9/3/13,78,5:15 PM,R,Cave Springs Campground,34.974238,-111.747313,Accommodation9/3/13,79,,F,Walmart,35.176345,-111.664484,Walmart9/3/13,80,,F,India Palace (Cuisine of India),34.817159,-111.904727,Food9/3/13,81,,F,Sedona Red Rocks,34.814896,-111.830885,Attraction9/3/13,82,,F,Bell Rock,34.783214,-111.773286,Attraction9/4/13,83,,F,Cathedral Rock,34.859394,-111.783851,Attraction9/4/13,84,8:28 AM,R,Wildflower Bread Co.,34.867243,-111.761988,Walmart9/4/13,85,11:31 AM,R,Pilot Travel Center,35.238506,-111.821738,Gas Station9/4/13,86,,F,McDonald's,35.218354,-114.007327,Food9/4/13,87,,F,Hoover Dam,36.01558,-114.747265,Attraction9/4/13,88,6:57 PM,R,Bellagio Buffet,36.112238,-115.179084,Walmart9/4/13,89,11:38 PM,R,RHUMBAR,36.120602,-115.176838,Walmart9/5/13,90,1:02 AM,R,El Mono Motel & Latte Da Coffee,37.956671,-119.119267,Food9/5/13,91,,F,Shell,38.065253,-117.227481,Gas Station9/5/13,92,1:27 PM,R,Walmart,36.097974,-115.108395,Walmart9/5/13,93,,F,Miguel's Fresh Jerky,36.914577,-116.752644,Food9/5/13,94,,F,Shell,38.065253,-117.227481,Gas Station9/5/13,95,3:13 PM,R,Area 51 Travel Center,36.643064,-116.39704,Gas Station9/5/13,96,3:23 PM,R,Bodie Mike's Barbeque,37.95599,-119.118852,Food9/6/13,97,,F,Mono Lake,38.007059,-119.012259,Attraction9/6/13,98,11:02 AM,R,Shell,37.95733,-119.119303,Gas Station9/6/13,99,3:13 PM,R,Delaware North Companies,37.641548,-119.626735,Food9/6/13,100,5:05 PM,R,Shell,38.255489,-119.231738,Gas Station9/6/13,101,6:18 PM,F,Curry Village,37.641548,-119.626735,Food9/6/13,102,8:25 PM,R,McDonald's,37.977142,-120.316533,Food9/7/13,103,1:03 PM,R,Glacier Point Gift,37.748134,-119.588534,Shop9/7/13,104,4:39 PM,R,Coffee Corner,37.74557,-119.593604,Food9/7/13,105,5:21 PM,R,Village Store,37.748134,-119.588534,Shop9/8/13,106,12:00 AM,R,Lombard Street,37.794778,-122.416495,Attraction9/8/13,107,11:45 AM,R,Fireball Coffee Roasting,37.839031,-120.229887,Food9/8/13,108,1:40 PM,R,Walmart,37.785487,-121.218581,Walmart9/8/13,109,7:19 PM,R,Penang Garden Restaurant,37.795497,-122.405573,Food9/8/13,110,8:04 PM,R,In-N-Out Burger,37.600826,-122.382426,Food9/9/13,111,,F,San Francisco International Airport (SFO),37.61356,-122.392888,Airport
